@@ -7,7 +7,7 @@ Passionate frontend developer focused on building modern and responsive web appl
 ---
 
 ## 🌐 Portfolio
-🔗 Live Demo: https://your-portfolio-link.com
+🔗 Live Demo:  https://adil3322.github.io/SA/
 
 ---
 
@@ -47,7 +47,7 @@ Responsive shopping interface with cart functionality.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+https://github.com/adil3322
 
 ---
 
