@@ -2,7 +2,7 @@
 # Hi 👋, I'm Addu
 
 ## 🚀 About Me
-Passionate frontend developer focused on building modern and responsive web applications.
+HI, I am ADIL ALAM,frontend developer focused on building modern and responsive web applications.
 
 ---
 
